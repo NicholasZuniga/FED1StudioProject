@@ -22,3 +22,6 @@ footer{
 .classstyle{
     background-color:hotpink;
 }
+nav ul li {
+    display: inline-block;
+}
