@@ -1,0 +1,136 @@
+﻿/*#region Header, Footer and Nav*/
+nav ul li{
+    display:inline-block;
+}
+.logo{
+    width:70px;
+    height:100px;
+    margin-top:25px;
+}
+header {
+    background-color: #a8fff5;
+    border:solid 2px black;
+}
+.nav{
+    border:solid 2px black;
+}
+nav ul li a{
+    margin-right:200px;
+}
+body {
+    background-color: #d7d8d9
+}
+nav{
+    background-color:white;
+}
+footer{
+    border:solid 2px black;
+    padding:40px 0px 40px 0px;
+}
+/*#endregion*/
+/*#region Index*/
+.pictureone{
+    height:30%;
+    object-fit:contain;
+}
+.picturetwo{
+    height:250px;
+    object-fit:contain;
+}
+.picturethree{
+    height:70%
+}
+.Aboutus{
+    text-decoration:underline;
+    margin-right: 3px;
+}
+#whychooseus{
+    text-align:center;
+    font-size:45px;
+}
+/*#endregion*/
+/*#region Class*/
+#center {
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px
+}
+
+#center td{
+    padding:15px;
+}
+
+#center td div {
+     width:235px;
+     border: solid 1px black;
+}
+
+#center td p{
+    margin:10px
+}
+
+#center td h3{
+    margin: 10px
+}
+
+#subjectclasslist table, #subjectclasslistthead, #subjectclasslist tr, #subjectclasslist td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#subjectclasslist h2{
+    text-align:center;
+}
+/*#endregion*/
+/*#region Team*/
+table.teams tr td img{
+    float:left;
+    width:75px;
+    height:75px;
+}
+#bydepartment{
+    float: right;
+    width: 25%;
+}
+#leadership{
+    width:75%;
+    float:left;
+    border-right:1px solid black;
+    box-sizing: border-box;
+}
+.mainwrapper{
+    padding:1%
+}
+.clear{
+    clear:both;
+}
+#bydepartment li{
+    padding:10px
+}
+#bydepartment h2{
+    text-align:center;
+}
+#leadership h2{
+    text-align:center;
+}
+/*#endregion*/
+
+/*#region Contact*/
+.contact h2, .contact table {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.contact td{
+    text-align:left;
+    padding:10px;
+    border:solid 1px black;
+}
+
+.contact table{
+    border-collapse:collapse;
+    margin-bottom:30px;
+}
+/*#endregion*/

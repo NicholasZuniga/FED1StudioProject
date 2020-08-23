@@ -67,6 +67,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\stylesheet.css" />
+    <Content Include="Images\Danganronpa_3_Side_Future_Koichi_Kizakura_Sidebar.png" />
+    <Content Include="Images\Picture3.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\Picture2.png" />
+    <Content Include="Images\Picture1.jpg" />
+    <Content Include="Images\smallphoto.png" />
+    <Content Include="Images\Teamphoto2.png" />
+    <Content Include="Images\Teamphoto3.jpeg" />
     <Content Include="Team.html" />
     <Content Include="Contact.html" />
     <Content Include="Classes.html" />
@@ -86,8 +95,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="CSS\" />
-    <Folder Include="Images\" />
     <Folder Include="JS\" />
   </ItemGroup>
   <PropertyGroup>
