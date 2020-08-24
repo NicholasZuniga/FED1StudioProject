@@ -133,4 +133,7 @@ table.teams tr td img{
     border-collapse:collapse;
     margin-bottom:30px;
 }
+.contact table div{
+    width:400px;
+}
 /*#endregion*/
